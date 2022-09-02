@@ -1,0 +1,30 @@
+{
+  "baseUrl": "http://localhost:3000/",
+  "chromeWebSecurity": false,
+  "viewportHeight": 720,
+  "viewportWidth": 1440,
+  "screenshotOnRunFailure": true,
+  "experimentalSessionSupport": true,
+  "screenshotsFolder": "cypress/reports/screenshots",
+  "video": false,
+  "numTestsKeptInMemory": 1,
+  "experimentalSessionAndOrigin": true,
+  "retries": {
+    "runMode": 1,
+    "openMode": 0
+  },
+  "testFiles": ["**/*.feature"],
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+    "reportDir": "cypress/htmlreport",
+    "charts": true,
+    "overwrite": false,
+    "showPending": false,
+    "showSkipped": true,
+    "saveJson": true
+  },
+  "env": {
+    "grepFilterSpecs": true,
+    "grepOmitFiltered": true
+  }
+}

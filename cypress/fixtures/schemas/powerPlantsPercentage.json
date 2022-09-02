@@ -1,0 +1,4521 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": ["integer", "null"]
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "state": {
+          "type": "string"
+        },
+        "annual_net_generation": {
+          "type": "null"
+        },
+        "latitude": {
+          "type": "number"
+        },
+        "longitude": {
+          "type": "number"
+        },
+        "percentage": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "state",
+        "annual_net_generation",
+        "latitude",
+        "longitude",
+        "percentage"
+      ]
+    }
+  ]
+}
