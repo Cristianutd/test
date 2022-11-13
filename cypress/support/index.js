@@ -19,9 +19,7 @@
 require("cypress-grep")();
 require("cypress-xpath");
 import "cypress-mochawesome-reporter/register";
-import "./CustomHelpers/element-helper";
-import "./Apis/api-helper";
-import "@shelex/cypress-allure-plugin";
+
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')

@@ -6,19 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cy:run": "cypress run --spec \"cypress/integration/${PRODUCTION_TYPE:-**}/**\"",
-    "cy:open": "cypress open",
-    "cy:regression": "./node_modules/.bin/cypress-tags run -e TAGS='@regression',allure=true --browser chrome --headless",
-    "cy:api-tests": "./node_modules/.bin/cypress-tags run -e TAGS='@api-tests',allure=true --browser chrome --headless",
-    "cy:api-tests-health-check": "./node_modules/.bin/cypress-tags run -e TAGS='@health-check',allure=true --browser chrome --headless",
-    "cy:api-tests-power-plants": "./node_modules/.bin/cypress-tags run -e TAGS='@power-plants',allure=true --browser chrome --headless",
-    "cy:api-tests-schemas": "./node_modules/.bin/cypress-tags run -e TAGS='@validate-schemas',allure=true --browser chrome --headless",
-    "cy:ui-tests": "./node_modules/.bin/cypress-tags run -e TAGS='@ui-tests',allure=true --browser chrome --headless",
-    "allure:report": "allure generate allure-results --clean -o allure-report && allure open",
-    "allure:clear": "rm -r allure-results/ allure-report cypress/screenshots || true",
-    "allure:history": "mv -f allure-report/history allure-results/history && rm -r allure-report || true",
-    "allure:version": "allure --version"
+    "cy:open": "cypress open"
   },
-  "author": "CristianArandia",
+  "author": "LauraBeltran",
   "license": "ISC",
   "dependencies": {
     "@shelex/cypress-allure-plugin": "^2.26.5",
@@ -41,8 +31,5 @@
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true,
     "commonPath": "cypress/integration/Steps/"
-  },
-  "env": {
-    "allureResultsPath": "reports/allure-results"
   }
 }
